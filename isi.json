@@ -1,0 +1,32 @@
+{
+    "products": [
+        {
+            "image": "https://telegra.ph/file/c0dadcb3885d12c7cbaeb.jpg",
+            "title": "MIKO MD - SEWABOT",
+            "price": "❏ Rp 10.000 = 7 Hari\n❏ Rp 20.000 = 15 Hari\n❏ Rp 35.000 = 30 Hari\n❏ Rp 45.000 = 100 Hari",
+            "benefits": ["Fast Respon", "Unlock Fiture Khusus Admin", "Hidetag", "Game Rpg", "Open & Close Group Dan Lainya"],
+            "link": "https://wa.me/6282138188516?text=min mau sewa bot tolong respon saya"
+        },
+        {
+            "image": "https://telegra.ph/file/d49b105b7e42d031e408d.jpg",
+            "title": "MIKO MD - PREMIUM",
+            "price": "❃ Rp 10.000 = 8 Hari\n❃ Rp 20.000 = 15 Hari\n❃ Rp 30.000 = 45 Hari\n❃ Rp 40.000 = 299 Hari\n❃ Rp 50.000 = Premium Permanent",
+            "benefits": ["Unlock NSFW", "Akses semua fitur premium", "Bebas menggunakan bot di PC", "Limit unlimited", "WM Sticker", "Akses fitur XNXX", "Akses fitur video hentai no sensor", "Special Premium Permanen Akses Cheat Pada rpg"],
+            "link": "https://wa.me/6282138188516?text=min upgrade premium bot di mikobot-md"
+        },
+        {
+            "image": "https://telegra.ph/file/63c30f26f2be62003bf85.jpg",
+            "title": "SOURCE CODE BOT (MIKO MD)",
+            "price": "Rp 45.000 / Free Update 3x",
+            "benefits": ["Digunakan untuk memodifikasi bot sesuai kebutuhan"],
+            "link": "https://wa.me/6282138188516?text=Min beli sc bot mikobot-md"
+        },
+        {
+            "image": "https://telegra.ph/file/d7b9f89dc5ef49d17b102.jpg",
+            "title": "PANEL - BOT WHATSAPP (Closed)",
+            "price": "Rp 5.000 - Rp 25.000 / Aktivasi",
+            "benefits": ["Untuk mengontrol dan mengatur bot WhatsApp"],
+            "link": "https://wa.me/6282138188516?text=Min Beli Panel,tolong kirimkan list panel nya"
+        }
+    ]
+}
